@@ -1,5 +1,8 @@
 package refactorizar;
-
+/**
+ * Clase para refactorizar
+ * Esto es un ejemplo para usar la opción team
+ */
 import java.util.Scanner;
 
 import JavaDoc.Circulo;
